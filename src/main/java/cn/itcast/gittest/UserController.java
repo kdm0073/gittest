@@ -10,4 +10,7 @@ public class UserController {
 	public void delUser(){
 		
 	}
+	public void findAll(){
+		
+	}
 }
