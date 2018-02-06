@@ -13,4 +13,10 @@ public class UserController {
 	public void findAll(){
 		
 	}
+	
+	public void findOne(){
+		
+	}
+	
+	
 }
