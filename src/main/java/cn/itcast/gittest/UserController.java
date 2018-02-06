@@ -4,4 +4,7 @@ public class UserController {
 	public void addUser(){
 		
 	}
+	public void updateUser(){
+		
+	}
 }
