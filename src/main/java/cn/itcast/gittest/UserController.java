@@ -7,4 +7,7 @@ public class UserController {
 	public void updateUser(){
 		
 	}
+	public void delUser(){
+		
+	}
 }
