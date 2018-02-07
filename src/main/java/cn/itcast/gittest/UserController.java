@@ -10,6 +10,9 @@ public class UserController {
 	public void delUser(){
 		
 	}
+	public void findAll(){
+		
+	}
 	
 	public void findOne(){
 		System.out.println("111");
