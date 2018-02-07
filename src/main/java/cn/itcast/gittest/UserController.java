@@ -12,7 +12,7 @@ public class UserController {
 	}
 	
 	public void findOne(){
-		
+		System.out.println("111");
 	}
 	
 	
